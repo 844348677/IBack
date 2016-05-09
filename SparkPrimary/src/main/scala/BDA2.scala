@@ -7,7 +7,6 @@ import scala.io.Source
 
 /**
   * Created by liuh on 2016/4/11.
-  * 计算BDA2，输入文件,输出文件
   */
 object BDA2 {
   def main(args: Array[String]) {
