@@ -8,7 +8,6 @@ import scala.io.Source
 
 /**
   * Created by liuh on 2016/3/30.
-  * RBDA的实现
   */
 object RBDA {
 
