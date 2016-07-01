@@ -6,6 +6,9 @@ import scala.io.Source
 
 /**
   * Created by hdd on 16-4-25.
+  * 需要输入两个变量，args(0)是输入文件路径，args(1)是输出文件路径
+  * 默认使用hdfs，本地文件类型前面加file://...
+  * 01化，没一行进行计算
   */
 object Main2Cluster {
   def main(args: Array[String]) {
