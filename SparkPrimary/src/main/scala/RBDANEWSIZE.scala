@@ -116,6 +116,7 @@ object RBDANEWSIZE {
         loopId += 1
       }
       //println(tuple2._1.mkString(",")+","+tuple2._2)
+      println("1,0,"+tuple2._1.length+","+tuple2._2+","+tuple2._1.mkString(","))
       tuple2
     }
 
